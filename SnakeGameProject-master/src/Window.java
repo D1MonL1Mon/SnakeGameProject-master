@@ -1,5 +1,5 @@
 import javax.swing.*;
-import java.awt.*;
+import java.io.IOException;
 
 public class Window extends JFrame {
 
